@@ -1,0 +1,16 @@
+name = "Jeef's Wynncraft"
+author = "Jeef"
+version = "0.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20b641fc9fa93ac7c1860cd3414f6293119015d1f86b7fd8c69058ed3528a408"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.11"
+
+[options]
+no-internal-hashes = true

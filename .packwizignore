@@ -1,0 +1,14 @@
+push.bat
+packwiz.exe
+bridge-server
+companion-mod
+.agents
+.git
+.github
+docs
+scripts
+README.md
+LICENSE
+node_modules
+build
+dist

@@ -1,0 +1,99 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "73c258de82db9b9b0ce06aa49878fae8018708075d43fe8d00cd1a923942ee0b"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "13672291e5cf2b6acef73e15107e457f3d88286cc0831c24dbdf6af74fc5fc09"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "481192fb349be87304022d2801bdf77be7082217fcdedf15a8f5da0a4e1a5ba5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a4c2d3de068fd3c2c9da27791bab8390ca00a3db6fd31f79eb89c1e79dc7e7b8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2f5c506d2812eadb4cd6ce2286dc2aafe8a21046d2c1f584a75ca90ea5bd3eeb"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
+metafile = true
+
+[[files]]
+file = "mods/jeefwynn-companion.jar"
+hash = "aa243605b3c0452c6538934cb542668df5118de0dd088fd7498c37fc35c328a1"
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "04161fe0dcb23469df8b66dba353592f0e5c4ea4f64b2f7a1636033ccdb9e351"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
+file = "mods/quickscreenshot.pw.toml"
+hash = "c3435ae34d3a147616385fbea2d568e6e47eae5ff0a7313c036f589804a98db6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "723a13737a51aa682f385ede7e4bfa925b1dfb435436ab2f69dc25c4be1b2c04"
+metafile = true
+
+[[files]]
+file = "mods/vow.pw.toml"
+hash = "3df2cce56a0ba9164b12b8de4ddc71e8318777b46fc6377ac77113ed98705776"
+metafile = true
+
+[[files]]
+file = "mods/wynnlodgrabber.pw.toml"
+hash = "3956a246d526e31dfaedc6b949b3155ebe53093a28aa417ac1603021ae7b8a6b"
+metafile = true
+
+[[files]]
+file = "mods/wynntils.pw.toml"
+hash = "a97fb65d3c4704c0a7ae777c1d6931106eb6d4de67c25929ca8ed3b492b33099"
+metafile = true
+
+[[files]]
+file = "mods/wynnvista.pw.toml"
+hash = "d0e7bca4caa509111520d8b745e60ae92acad4bfc1accf99571c7ec60322c4b1"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true

@@ -1,0 +1,20 @@
+.agents
+scripts
+push.bat
+packwiz.exe
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Local build and runtime artifacts
+.gradle/
+node_modules/
+build/
+bin/
+dist/
+run/
+.env
+*.log

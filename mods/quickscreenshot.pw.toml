@@ -1,0 +1,13 @@
+name = "Quick Screenshot"
+filename = "quickscreenshot-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bZ9cNQrh/versions/WNQVs39k/quickscreenshot-1.0.0.jar"
+hash-format = "sha512"
+hash = "10b071f9bca06d4adbfdee05273d0baf86d55806c950a5b72ffa3120ec81291c683b2746f8cf934792d563bfb3d91104a8fe39dd034caeccd3d1e5d88c2127d0"
+
+[update]
+[update.modrinth]
+mod-id = "bZ9cNQrh"
+version = "WNQVs39k"

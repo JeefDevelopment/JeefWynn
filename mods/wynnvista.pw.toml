@@ -1,0 +1,18 @@
+name = "WynnVista"
+filename = "WynnVista-1.0.2.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "Map LoDs (3/3): tunes Distant Horizons for the Wynncraft map and hides/reduces LoDs elsewhere. Select with Distant Horizons and WynnLODGrabber."
+
+[download]
+url = "https://cdn.modrinth.com/data/70ZxXDHX/versions/tQBSdLlh/WynnVista-1.0.2.jar"
+hash-format = "sha512"
+hash = "af5c6882d0ca8d04db74212991bf991fe7a5bf11bf755eef086bdc5032269f760decc3602393e26901fb26078ae4be80ae1465c25524c701be51a94e73f049bf"
+
+[update]
+[update.modrinth]
+mod-id = "70ZxXDHX"
+version = "tQBSdLlh"

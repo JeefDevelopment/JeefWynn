@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "jeefwynn",
+  "version": "${version}",
+  "name": "JeefWynn Companion",
+  "description": "Optional Discord bridge and spell readiness HUD for Jeef's Wynncraft pack.",
+  "authors": ["Jeef"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.jeefwynn.JeefWynnClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*",
+    "wynntils": ">=4.0.0"
+  }
+}
