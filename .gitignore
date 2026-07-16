@@ -4,13 +4,12 @@ push.bat
 packwiz.exe
 *.md
 local/
-# Exclude exported CurseForge zip files
+bridge-server/
+companion-mod/
 *.zip
 
-# Exclude exported Modrinth modpacks
 *.mrpack
 
-# Local build and runtime artifacts
 .gradle/
 node_modules/
 build/
