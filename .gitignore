@@ -2,7 +2,8 @@
 scripts
 push.bat
 packwiz.exe
-
+*.md
+local/
 # Exclude exported CurseForge zip files
 *.zip
 
