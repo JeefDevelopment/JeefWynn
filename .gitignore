@@ -5,6 +5,7 @@ packwiz.exe
 *.md
 local/
 wynntils/
+config/authme*
 bridge-server/
 companion-mod/
 *.zip

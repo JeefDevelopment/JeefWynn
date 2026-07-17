@@ -5,6 +5,11 @@ file = "config/yosbr/options.txt"
 hash = "b4f04f6e904b89efacf7eaae454bb7bd08a243ba8537f360e7a9097ff7178206"
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "1562c21781759f538378d67275bac4497dd15b68b85d13e9c5b613a1ba46cacc"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
@@ -41,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeefwynn-companion.jar"
-hash = "0010fe2acb390067128d32dbc85e8c25eb237a4fe6575a607792ab4c272be71e"
+hash = "187a302032a7e11643e99b6f678d4baf7d417535d9fbb4abf18ae2ba450b7f62"
 
 [[files]]
 file = "mods/lithium.pw.toml"
