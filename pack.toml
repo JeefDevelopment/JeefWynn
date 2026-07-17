@@ -1,12 +1,12 @@
 name = "Jeef's Wynncraft"
 author = "Jeef"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "12d0bd1bc6b1ded9c9fb4fff034f631c2b8bece6a7795f51196dc0595d2073bf"
+hash = "d197732fcdc099aeb48a903b4e2e939a0f514d0d7696864d7cf2a2a487a683ec"
 
 [versions]
 fabric = "0.19.3"
