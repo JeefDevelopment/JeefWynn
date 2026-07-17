@@ -45,8 +45,13 @@ hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+metafile = true
+
+[[files]]
 file = "mods/jeefwynn-companion.jar"
-hash = "187a302032a7e11643e99b6f678d4baf7d417535d9fbb4abf18ae2ba450b7f62"
+hash = "e9eaef2060e535f3e9ab54067c90263f0d25c247ed9a7fea195ea6f39787a51f"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -101,4 +106,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
