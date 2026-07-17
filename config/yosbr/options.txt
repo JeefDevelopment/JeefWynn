@@ -1,3 +1,4 @@
 guiScale:3
 renderDistance:8
 simulationDistance:8
+tutorialStep:none

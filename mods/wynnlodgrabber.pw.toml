@@ -2,11 +2,6 @@ name = "WynnLODGrabber"
 filename = "wynnlodgrabber-1.2.1.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Map LoDs (2/3): offers an in-game download of the community Wynncraft LoD cache. Select this together with Distant Horizons and WynnVista."
-
 [download]
 url = "https://cdn.modrinth.com/data/Rau5VAYE/versions/OPGW6sV9/wynnlodgrabber-1.2.1.jar"
 hash-format = "sha512"

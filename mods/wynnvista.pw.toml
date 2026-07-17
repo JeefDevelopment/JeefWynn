@@ -2,11 +2,6 @@ name = "WynnVista"
 filename = "WynnVista-1.0.2.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Map LoDs (3/3): tunes Distant Horizons for the Wynncraft map and hides/reduces LoDs elsewhere. Select with Distant Horizons and WynnLODGrabber."
-
 [download]
 url = "https://cdn.modrinth.com/data/70ZxXDHX/versions/tQBSdLlh/WynnVista-1.0.2.jar"
 hash-format = "sha512"

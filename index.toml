@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "73c258de82db9b9b0ce06aa49878fae8018708075d43fe8d00cd1a923942ee0b"
+hash = "b4f04f6e904b89efacf7eaae454bb7bd08a243ba8537f360e7a9097ff7178206"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "13672291e5cf2b6acef73e15107e457f3d88286cc0831c24dbdf6af74fc5fc09"
+hash = "a06516113cc402eed4c27c7b618e1f903ad93e3e0a158d2301d98045eabaa174"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeefwynn-companion.jar"
-hash = "aa243605b3c0452c6538934cb542668df5118de0dd088fd7498c37fc35c328a1"
+hash = "0b0e9720be9fb7a66334f7ab672bbd87aadf693c210de312a4152eaff4d768ac"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -75,12 +75,12 @@ metafile = true
 
 [[files]]
 file = "mods/vow.pw.toml"
-hash = "3df2cce56a0ba9164b12b8de4ddc71e8318777b46fc6377ac77113ed98705776"
+hash = "64e70a75577ab1cc727d77bd48097bcc94f79a4ce4d0b4828bd64ac3dce9d7f5"
 metafile = true
 
 [[files]]
 file = "mods/wynnlodgrabber.pw.toml"
-hash = "3956a246d526e31dfaedc6b949b3155ebe53093a28aa417ac1603021ae7b8a6b"
+hash = "7129efe45c0aef09792360bc1f1b13835a05d63b382bcb9dce82419b6791695c"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynnvista.pw.toml"
-hash = "d0e7bca4caa509111520d8b745e60ae92acad4bfc1accf99571c7ec60322c4b1"
+hash = "1b26f9dc18b86159a0ce58d1b4c31843d6b6530d1f6bb56d6945805325052b70"
 metafile = true
 
 [[files]]
