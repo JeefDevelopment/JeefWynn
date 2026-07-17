@@ -97,7 +97,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
-
-[[files]]
-file = "wynntils/config/global.conf.json"
-hash = "ad842d0091c392c07698c8560f193c1c74b8c77375635b491e12a980dbe136e9"

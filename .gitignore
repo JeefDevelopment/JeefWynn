@@ -4,6 +4,7 @@ push.bat
 packwiz.exe
 *.md
 local/
+wynntils/
 bridge-server/
 companion-mod/
 *.zip
