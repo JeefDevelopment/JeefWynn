@@ -5,10 +5,6 @@ file = "config/yosbr/options.txt"
 hash = "b4f04f6e904b89efacf7eaae454bb7bd08a243ba8537f360e7a9097ff7178206"
 
 [[files]]
-file = "local/wynntils-inspect.jar"
-hash = "624a65e226262d2cf044c2f3e5633ed90e140d324847d8fa7c47a57d7fdfd02f"
-
-[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "1562c21781759f538378d67275bac4497dd15b68b85d13e9c5b613a1ba46cacc"
 metafile = true
