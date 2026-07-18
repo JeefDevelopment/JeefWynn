@@ -5,6 +5,10 @@ file = "config/yosbr/options.txt"
 hash = "b4f04f6e904b89efacf7eaae454bb7bd08a243ba8537f360e7a9097ff7178206"
 
 [[files]]
+file = "local/wynntils-inspect.jar"
+hash = "624a65e226262d2cf044c2f3e5633ed90e140d324847d8fa7c47a57d7fdfd02f"
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "1562c21781759f538378d67275bac4497dd15b68b85d13e9c5b613a1ba46cacc"
 metafile = true
@@ -51,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeefwynn-companion.jar"
-hash = "e9eaef2060e535f3e9ab54067c90263f0d25c247ed9a7fea195ea6f39787a51f"
+hash = "d7cbcb82d7d43670c44c0377d85d15831e9a345f58ddde0c6459f4a176f8aca8"
 
 [[files]]
 file = "mods/lithium.pw.toml"
