@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeefwynn-companion.jar"
-hash = "d7cbcb82d7d43670c44c0377d85d15831e9a345f58ddde0c6459f4a176f8aca8"
+hash = "ec649fcdb431c3d35036c4bb29d0a43a8e8bd1f8191b7a406b7cebdbd824f16c"
 
 [[files]]
 file = "mods/lithium.pw.toml"
