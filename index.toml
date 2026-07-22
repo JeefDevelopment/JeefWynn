@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeefwynn-companion.jar"
-hash = "6471ebdc954c5c6f68f80c166da0ac82f75eeb8a117d1bd264dca4093b8623e3"
+hash = "835f4bfa6516acc27a9078fea1746fdfcb92dd8a698c2e174bda6bac6966c0f8"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -96,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/wynntils.pw.toml"
 hash = "a97fb65d3c4704c0a7ae777c1d6931106eb6d4de67c25929ca8ed3b492b33099"
+metafile = true
+
+[[files]]
+file = "mods/wynnventory.pw.toml"
+hash = "1046e4e2a370a603cb4c02e8ec012b26ce913736ab3e43143c2a267f99fc41ad"
 metafile = true
 
 [[files]]
